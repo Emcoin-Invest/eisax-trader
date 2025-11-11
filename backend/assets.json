@@ -1,0 +1,8 @@
+[
+  {"id": 1, "symbol": "ADSB", "name": "Abu Dhabi Ship Building", "category": "UAE Stock"},
+  {"id": 2, "symbol": "AAPL", "name": "Apple Inc.", "category": "US Stock"},
+  {"id": 3, "symbol": "GLD", "name": "Gold ETF", "category": "Commodity"},
+  {"id": 4, "symbol": "USD/JPY", "name": "Dollar/Yen FX", "category": "Forex"},
+  {"id": 5, "symbol": "VIG", "name": "Vanguard Dividend ETF", "category": "ETF"},
+  {"id": 6, "symbol": "UAE-BOND", "name": "UAE Government Bond", "category": "Bond"}
+]
